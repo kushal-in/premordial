@@ -35,3 +35,5 @@ find / -type d -name "backup" 2>/dev/null
 
 # 12. Replace every occurrence of "foo" with "bar" in "example.txt" and save to "new_example.txt"
 sed "s/foo/bar/g"  example.txt > new_example.txt
+
+#im making this change now
